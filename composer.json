@@ -1,5 +1,5 @@
 {
-    "name": "philadelphia/src",
+    "name": "philadelphia/core",
     "description": "The Philadelphia FrameWork package.",
     "license": "MIT",
     "authors": [
@@ -14,7 +14,7 @@
     },
     "autoload": {
         "psr-4": {
-            "Core\\": "core/"
+            "Philadelphia\\": ""
         }
     }
 }
